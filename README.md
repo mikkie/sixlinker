@@ -1,15 +1,13 @@
 sixlinker
 =========
 
-it is my first SNS Demo
+SIXLINKER 是一个基于google map的 LBS + SNS 系统。用户可以在地图上分享标签(带图片及短文本的消息,含具体的坐标位置)。
 
-Im trying to build a SNS system of myself. with the basic functions like email,photoes,IM chat,blogs,and some apps.
+用户可以在地图上与好友分享这些标签。此外，用户可以通过(兴趣板)来对标签进行分类管理。
 
-my idea is to put a map on main page, and each user login will be display on the map. so you can explorer on the map,
+项目的宗旨在于以一种本地化的直观方式让用户发现与分享身边有趣好玩的信息，使信息能更直观地呈现给用户，此外考虑到可以扩展
 
-chat with the persons that also on this map,I gonna add some apps on map. so you can interact with other by these apps,
+消息为服务，娱乐，等本地生活信息，使其成为用户获取本地信息的新方式。
 
-like multi players flash game.
 
-my project is still on the way....
-
+项目地址为 www.sixlinker.com
